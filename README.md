@@ -12,10 +12,9 @@ It leverages advanced **DAX (Data Analysis Expressions)**, custom measures, and 
 - **Advanced DAX Calculations**: Custom measures for player rankings, goal contributions, and expected goals (xG).
 - **Match Analysis**: Win/loss trends, possession stats, shots on target, and overall performance breakdown.
 - **Player Performance**: Individual player stats, assists, goals, and defensive contributions.
-- **Tactical Insights**: Heatmaps, formations, and team strengths in different game scenarios.
+- **Tactical Insights**: formations, individual performance per match, and team strengths in different game scenarios.
 - **Key KPIs**: Points per match, goal difference, clean sheets, and squad efficiency.
 - **Interactive Visuals**: Drill-through reports and dynamic filtering for deeper insights.
-- **Optimized Data Model**: Star schema implementation for seamless querying and visualization.
 
 ## 📂 Dataset Description
 The dataset used in this dashboard consists of:
