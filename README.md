@@ -1,4 +1,3 @@
-# Man-City-performance-analysis
 # Manchester City Performance Dashboard
 
 ## 📌 Project Overview
