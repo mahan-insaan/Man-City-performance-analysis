@@ -1,6 +1,6 @@
 # Manchester City Performance Dashboard
 
-## Link: https://aditac-my.sharepoint.com/:u:/g/personal/17ee_quadirakbar_adit_ac_in/ET3r5gcxdJ1An7cPCrLyaAQBIJCYT1FlW-1HuJR2lSqWuA?e=9mo4Th
+## Link: https://app.powerbi.com/links/NJdAyzPzPb?ctid=f3db65e4-ce5a-4d7e-a140-255bf017d87f&pbi_source=linkShare
 ## 📌 Project Overview
 If you're a football fan who follows **Manchester City**, you already know they are a powerhouse in terms of their squad, management, and, of course, their coach.
 However, this season, they have been a shadow of the team they were in previous seasons. What has gone wrong?
