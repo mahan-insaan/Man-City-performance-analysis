@@ -1,10 +1,12 @@
 # Manchester City Performance Dashboard
 
+## Link: https://aditac-my.sharepoint.com/:u:/g/personal/17ee_quadirakbar_adit_ac_in/ET3r5gcxdJ1An7cPCrLyaAQBIJCYT1FlW-1HuJR2lSqWuA?e=9mo4Th
 ## 📌 Project Overview
 If you're a football fan who follows **Manchester City**, you already know they are a powerhouse in terms of their squad, management, and, of course, their coach.
 However, this season, they have been a shadow of the team they were in previous seasons. What has gone wrong?
 This Power BI dashboard provides an in-depth analysis of Manchester City's performance in **2023-24** compared to **2024-25**, covering key metrics such as match statistics, player performance, and team trends.
 It leverages advanced **DAX (Data Analysis Expressions)**, custom measures, and optimized data modeling to generate actionable insights for football analysts, fans, and strategists.
+**P.S. – This is a live project. The 2024-25 season isn’t over yet, so I’ll keep updating the data after every matchday for every player until the season ends. It may sound tedious, but when you’re passionate…**
 
 ## 📊 Features & Insights
 - **Advanced DAX Calculations**: Custom measures for player rankings, goal contributions, and expected goals (xG).
